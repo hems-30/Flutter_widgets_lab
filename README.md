@@ -9,6 +9,7 @@
 
 ### Widget Tree
 ![Widget Tree](./profile_card_lab/widget_tree.png)
+![Widget Tree](./profile_card_lab/widget_tree0.png)
 
 
 ## Lab 2: Bottom Nav Lab
